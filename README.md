@@ -48,7 +48,7 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
         <table border="0">
             <tr>
                 <td>	
-		<img src="images/captura.png width="250"/>
+		<img src="images/captura.png" width="250"/>
                 </td>
             </tr>
         </table>
